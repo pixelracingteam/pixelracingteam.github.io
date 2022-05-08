@@ -1,6 +1,6 @@
 ## Welcome to PIXEL RACING TEAM
 
-<img height="200px" src="https://user-images.githubusercontent.com/105153608/167293619-3630a41b-cd41-44a1-85fe-596a48dac5cb.png"></img>
+<img height="200px" src="https://user-images.githubusercontent.com/105153608/167293619-3630a41b-cd41-44a1-85fe-596a48dac5cb.png"/>
 
 You can use the [editor on GitHub](https://github.com/pixelracingteam/pixelracingteam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
